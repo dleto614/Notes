@@ -2,7 +2,7 @@
 
 Just my vim config file. I ripped this from somewhere online and it works for what I want since I didn't want or need a whole lot of plugins.
 
-I use VSCodium for bigger programming projects, but this works well for small scripts and programs. Also use to edit other files.
+I use [VSCodium](https://vscodium.com/) for bigger programming projects, but this works well for small scripts and programs. Also use to edit other files.
 
 -----
 
