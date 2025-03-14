@@ -1,4 +1,4 @@
-#### Vimrc
+# Vimrc
 
 Just my vim config file. I ripped this from somewhere online and it works for what I want since I didn't want or need a whole lot of plugins.
 
