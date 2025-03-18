@@ -15,6 +15,16 @@ vagrant plugin install vagrant-libvirt
 ```
 
 ------
+
+If trouble with dependencies:
+
+```ruby
+VAGRANT_DISABLE_STRICT_DEPENDENCY_ENFORCEMENT=1 vagrant plugin install vagrant-vbguest vagrant-share
+```
+
+`VAGRANT_DISABLE_STRICT_DEPENDENCY_ENFORCEMENT=1` is a temporary workaround.
+
+------
 # **General Usage:**
 
 To download and initialize vagrant vm:
